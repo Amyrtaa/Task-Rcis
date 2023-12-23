@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 using System.IO;
 
@@ -12,9 +13,16 @@ namespace second
 
             using StreamReader reader = new StreamReader(path);
 
-            string str = String.Join("", reader.ReadToEnd().Split('(').ToArray());
-            str = String.Join(" ", str.Split(')'));
+            string el = reader.ReadLine();
 
+            string str = el + " ";
+            
+            while (el != null)
+            {
+                el = reader.ReadLine();
+                str += el + " ";
+            }
+            
             Console.WriteLine(str);
         }
     }

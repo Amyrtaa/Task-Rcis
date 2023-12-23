@@ -1,1 +1,4 @@
-﻿(ran)(yes)(no)(apple)(trading)
+﻿yes
+no
+apple
+koko

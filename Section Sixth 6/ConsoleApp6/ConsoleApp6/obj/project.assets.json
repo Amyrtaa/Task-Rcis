@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\public.COPP\\Documents\\practice\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectUniqueName": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "projectName": "ConsoleApp6",
-      "projectPath": "C:\\Users\\public.COPP\\Documents\\practice\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+      "projectPath": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
       "packagesPath": "C:\\Users\\public.COPP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\public.COPP\\Documents\\practice\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\obj\\",
+      "outputPath": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Sixth 6\\ConsoleApp6\\ConsoleApp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
