@@ -12,7 +12,7 @@ namespace fifth
             int n = int.Parse(Console.ReadLine());
             Console.Write("ведите количество столбцов матрицы: ");
             int m = int.Parse(Console.ReadLine());
-            var matrix = new int[n, m + 7];
+            var matrix = new int[n, m + 1];
 
             int sum = 0;
             Random rand = new Random();
