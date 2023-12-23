@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\public.COPP\\Documents\\practice\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\public.COPP\\Documents\\practice\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\public.COPP\\Documents\\practice\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\public.COPP\\Documents\\practice\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\public.COPP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\public.COPP\\Documents\\practice\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\public.COPP\\Documents\\Task-Rcis\\Section Third 3\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

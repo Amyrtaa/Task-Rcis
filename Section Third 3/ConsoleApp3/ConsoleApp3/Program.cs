@@ -23,14 +23,8 @@ namespace third
                 int width = right - left;
                 int h = Math.Min(height[left], height[right]);
                 max_S = Math.Max(max_S, width * h);
-                if (height[left] < height[right])
-                {
-                    left++;
-                }
-                else
-                {
-                    right--;
-                }
+                
+                left++;
             }
             Console.WriteLine("S: " + max_S);
         }
